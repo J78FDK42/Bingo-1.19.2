@@ -1,0 +1,15 @@
+{
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game",
+	"1.19.2": {
+		"1.19.2-1.0.5b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4112329/changelog",
+		"1.19.2-1.0.4b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4112329/changelog",
+		"1.19.2-1.0.3b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4089323/changelog",
+		"1.19.2-1.0.2b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4081965/changelog",
+		"1.19.2-1.0.1b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4073191/changelog",
+		"1.19.2-1.0.0b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4055618/changelog"
+	},
+	"promos": {
+		"1.19.2-latest": "1.19.2-1.0.5b",
+		"1.19.2-recommended": "1.19.2-1.0.5b"
+	}
+}
