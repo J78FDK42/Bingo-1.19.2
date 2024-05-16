@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file.
 + Official release file for Minecraft version 1.19.2
 
 
-## [1.19.2-1.0.5b] - 2024-05-20*
+## [1.19.2-1.0.5b] - 2024-05-27*
 ---------------
 
 ### Added 
@@ -32,10 +32,27 @@ All notable changes to this project will be documented in this file.
 + Players must join the game before the game is started
 + Start GUI displays stop once started or reset when game ends
 + Start GUI displays join or quit once joined
-+ Advancements and Progress settings have been moved to the Options page of the Start GUI
++ Advancements, Cards, and Progress settings have been moved to the Options page of the Start GUI
 + All translatable text has been changed to translatable text objects
 + System chat messages are sent once from only the caller
 + Advancement text parsing was expanded to work better with modpacks like FTB Skies
++ Recipe Advancement option is inclusive and not exclusive with both Vanilla and Custom options
++ Recipe Advancement option now works with Custom Advancements
++ An error message is displayed if the game card is viewed when any of the settings have changed
++ Minecraft command `bingo players` displays an error message when no players have joined the game
++ Improved game board and play validation checks
++ Easy Collectibles datapack has been expanded to include more items (100+ items!)
++ Medium Collectibles datapack has been expanded to include more items (100+ items!)
++ Hard Collectibles datapack has been expanded to include more items (100+ items!)
+
+### Fixed
+
++ Scoring issue with Red vs. Blue team play
++ End game activation issue
++ Minecraft command `bingo joined` and `bingo join` multi-thread/multi-player issue
++ Minecraft command `bingo join red|blue` multi-thread/multi-player issue
++ Easy collectible Granite now displays and responds to granite
++ Hard Collectibles datapack has been expanded to include at least 24+ items (full board)
 
 
 ## [1.19.2-1.0.4b] - 2022-11-25
@@ -172,9 +189,9 @@ View Bingo card key `'o'`
 	* Restarts the game
 
 
-[1.19.2-1.0.5b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.5b.jar
-[1.19.2-1.0.4b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.4b.jar
-[1.19.2-1.0.3b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.3b.jar
-[1.19.2-1.0.2b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.2b.jar
-[1.19.2-1.0.1b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.1b.jar
-[1.19.2-1.0.0b]: https://github.com/J78FDK42/Bingo/raw/1.19.2-1.0b/bingo-1.19.2-1.0.0b.jar
+[1.19.2-1.0.5b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.5b.jar
+[1.19.2-1.0.4b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.4b.jar
+[1.19.2-1.0.3b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.3b.jar
+[1.19.2-1.0.2b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.2b.jar
+[1.19.2-1.0.1b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.1b.jar
+[1.19.2-1.0.0b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.0b.jar
