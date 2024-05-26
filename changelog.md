@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file.
 + Official release file for Minecraft version 1.19.2
 
 
-## [1.19.2-1.0.5b] - 2024-05-27*
+## [1.19.2-1.0.5b] - 2024-05-27
 ---------------
 
 ### Added 
@@ -36,11 +36,12 @@ All notable changes to this project will be documented in this file.
 + All translatable text has been changed to translatable text objects
 + System chat messages are sent once from only the caller
 + Advancement text parsing was expanded to work better with modpacks like FTB Skies
-+ Recipe Advancement option is inclusive and not exclusive with both Vanilla and Custom options
-+ Recipe Advancement option now works with Custom Advancements
 + An error message is displayed if the game card is viewed when any of the settings have changed
 + Minecraft command `bingo players` displays an error message when no players have joined the game
 + Improved game board and play validation checks
++ Recipe Advancement option now works with both Vanilla and Custom options
++ Recipe Advancement option adds recipe advancements to Vanilla or Custom options or both
++ Recipe Advancement option by itself does not include any advancements, a Vanilla or Custom option must be selected
 + Easy Collectibles datapack has been expanded to include more items (100+ items!)
 + Medium Collectibles datapack has been expanded to include more items (100+ items!)
 + Hard Collectibles datapack has been expanded to include more items (100+ items!)
@@ -179,7 +180,7 @@ View Bingo card key `'o'`
 `bingo:bingo_card`
 + right click / view card
 
-### Minecraft Commands
+#### Minecraft Commands
 
 + `bingo start` 
 	* Starts game
