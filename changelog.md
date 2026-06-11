@@ -17,14 +17,14 @@ All notable changes to this project will be documented in this file.
 
 + Game Mode Tab to Bingo Game Screen
 + Unlocks Tab to Bingo Game Screen
-+ Bingo command translations
++ Bingo language translations
 
 #### Files
 
 + Bingo client/server save files
 + Bingo French version language file
 
-Download Language Specification: [en_us.json](https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-2.0b/en_us.json)
+Download Language Specification: [en_us.json](https://github.com/J78FDK42/Bingo-1.18.2/blob/Version-0.2.0/en_us.json)
  
 #### Game Mode Tab
 
@@ -255,7 +255,7 @@ View Bingo card key `'o'`
 	* Restarts the game
 
 
-[0.2.0]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-2.0b/bingo-0.2.0b-forge-1.19.2.jar
+[0.2.0]: https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-0.2.0/bingo-0.2.0-forge-1.19.2.jar
 [1.19.2-1.0.5b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.5b.jar
 [1.19.2-1.0.4b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.4b.jar
 [1.19.2-1.0.3b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.3b.jar
