@@ -11,6 +11,71 @@ All notable changes to this project will be documented in this file.
 + Official release file for Minecraft version 1.19.2
 
 
+## [0.2.0] - 2024-11-17 : Beta v2 Update!
+
+### Added
+
++ Game Mode Tab to Bingo Game Screen
++ Unlocks Tab to Bingo Game Screen
++ Bingo command translations
+
+#### Files
+
++ Bingo client/server save files
++ Bingo French version language file
+
+Download Language Specification: [en_us.json](https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-2.0b/en_us.json)
+ 
+#### Game Mode Tab
+
++ Game mode Bingo (standard bingo)
++ Game mode Blackout (all squares)
++ Game mode Twenty (20 squares, no bingo)
+
+#### Unlocks Tab
+
++ Advancements
++ Recipes
+
+#### Advancements Tab
+
++ Vanilla
++ Modded
++ Custom
+
+#### Recipes Tab
+
++ Vanilla
++ Modded
++ Custom
+
+### Changed
+
++ Forward compatible version name/number with Gradle
+
+#### Files
+
++ Bingo game files
++ Bingo networking files
++ Bingo key binding files
++ Bingo save files
+
+### Removed
+
++ Bingo config files 
++ Bingo player capabilities save file
+
+### Fixed
+
++ Player saved data lost on player death
++ Advancement progress saved after being cleared
++ Team progress updates correctly
++ Global progress updates correctly
++ Team cards issued correctly
++ Global cards issued correctly
++ Translatable text issues
+
+
 ## [1.19.2-1.0.5b] - 2024-05-27
 ---------------
 
@@ -190,6 +255,7 @@ View Bingo card key `'o'`
 	* Restarts the game
 
 
+[0.2.0]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-2.0b/bingo-0.2.0b-forge-1.19.2.jar
 [1.19.2-1.0.5b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.5b.jar
 [1.19.2-1.0.4b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.4b.jar
 [1.19.2-1.0.3b]: https://github.com/J78FDK42/Bingo-1.19.2/raw/Version-1.0b/bingo-1.19.2-1.0.3b.jar
