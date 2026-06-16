@@ -1,15 +1,17 @@
 {
-	"homepage": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game",
+	"homepage": "https://github.com/J78FDK42/Bingo/blob/main/faqs.md",
 	"1.19.2": {
-		"1.19.2-1.0.5b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/5375503/changelog",
-		"1.19.2-1.0.4b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4112329/changelog",
-		"1.19.2-1.0.3b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4089323/changelog",
-		"1.19.2-1.0.2b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4081965/changelog",
-		"1.19.2-1.0.1b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4073191/changelog",
-		"1.19.2-1.0.0b": "https://www.curseforge.com/minecraft/mc-mods/advancement-bingo-game/files/4055618/changelog"
+		"0.2.0": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-0.2.0/bingo-0.2.0-forge-1.19.2.jar",
+		"1.19.2-0.1.6b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-forge-1.19.2-0.1.6b.jar",
+		"1.19.2-1.0.5b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.5b.jar",
+		"1.19.2-1.0.4b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.4b.jar",
+		"1.19.2-1.0.3b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.3b.jar",
+		"1.19.2-1.0.2b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.2b.jar",
+		"1.19.2-1.0.1b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.1b.jar",
+		"1.19.2-1.0.0b": "https://github.com/J78FDK42/Bingo-1.19.2/blob/Version-1.0b/bingo-1.19.2-1.0.0b.jar"
 	},
 	"promos": {
-		"1.19.2-latest": "1.19.2-1.0.5b",
-		"1.19.2-recommended": "1.19.2-1.0.5b"
+		"1.19.2-latest": "0.2.0",
+		"1.19.2-recommended": "0.2.0"
 	}
 }
